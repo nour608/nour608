@@ -1,4 +1,4 @@
-# Hi there, I'm nour elden 👋
+# Hi there, I'm Nour Elden (nour99) 👋
 
 <!-- Add an introductory paragraph about yourself -->
 I am a Security Researcher with experience in Smart contract auditing. I'm passionate about hacking, and finding bugs.
@@ -54,6 +54,14 @@ I am a Security Researcher with experience in Smart contract auditing. I'm passi
   - Fuzz testing.
   - Formal verification testing.
   - Tools -> Echidna, Slither, Aderyn...etc.
+
+## Audit Contests
+|Contest|Description|Findings|Rank|Report|
+|:------|:----------|:-------|:--:|:----:|
+|[First Flight #17: Dussehra (CTF)](https://codehawks.cyfrin.io/c/2024-06-Dussehra)|NFT |[2 H, 1 L]()|40th|[📄](https://codehawks.cyfrin.io/c/2024-06-Dussehra/results?t=report&page=1)|
+
+
+
 
 
 ## 🔗 Connect with me
