@@ -64,6 +64,7 @@ I am a Security Researcher with experience in Smart contract auditing. I'm passi
 
 
 
-## 🔗 Connect with me
+## 🔗 Social 
 - [Twitter](https://twitter.com/nour608)
 - [LinkedIn](https://www.linkedin.com/in/nour-elden-nader-0845581b3/)
+- [Nour Elden Blog](https://nour99.hashnode.dev/)
