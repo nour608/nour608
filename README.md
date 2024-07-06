@@ -1,11 +1,11 @@
 # Hi there, I'm Nour Elden (nour99) 👋
 
 <!-- Add an introductory paragraph about yourself -->
-I am a Security Researcher with experience in Smart contract auditing. I'm passionate about Hacking and finding bugs.
+I am a Security Researcher with a passion for Hacking and finding bugs, specializing in Smart contract auditing.
 
 ### About me 💯
 
-- 🔭 I'm currently working as a Smart contract auditor on platforms such as C4, Sherlock, CodeHawks...etc.
+- 🔭 I'm currently working as a Smart contract auditor on platforms such as [Code4rena](https://code4rena.com/@nour99), [Sherlock](https://audits.sherlock.xyz/watson/nour99), and [CodeHawks](https://codehawks.cyfrin.io/profile/clsj2nv2y0006l5rg1oswt3ys).
 - ❤️ Generally, I'm truly passionate about **Computer Science, Hacking, Learning new technology daily, Smart contract audit, Ethereum Smart Contracts, Bitcoin**.
 
 ### 💻 OSes
@@ -20,18 +20,17 @@ I am a Security Researcher with experience in Smart contract auditing. I'm passi
 ### 🎯 Skills
 
 #### ⌨️ Programming languages
-- Solidity.
-- Huff.
-- Yul.
-- Assembly.
-- Javascript.
-- Python.
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Huff](https://img.shields.io/badge/Huff-000000?style=for-the-badge&logoColor=white)
+![Yul](https://img.shields.io/badge/Yul-342e37?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-007acc?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🎛 Frameworks and runtime environments
-
-- [Foundry](https://github.com/foundry-rs/foundry)
-- [Hardhat](https://hardhat.org)
-- [DappTools](https://github.com/dapphub/dapptools)
+![Foundry](https://img.shields.io/badge/Foundry-20232a?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-4CAF50?style=for-the-badge&logo=hardhat&logoColor=white)
+![DappTools](https://img.shields.io/badge/DappTools-FE7A16?style=for-the-badge)
   
 #### 🗃 Package, dependency, and environment management
 
@@ -52,17 +51,13 @@ I am a Security Researcher with experience in Smart contract auditing. I'm passi
   - EVM.
   - Foundry.
   - Fuzz testing.
-  - Formal verification testing.
+  - Formal verification testing. [Halmos](https://github.com/a16z/halmos) [certora](https://www.certora.com/prover)
   - Tools -> Echidna, Slither, Aderyn...etc.
 
 ## Audit Contests
 |Contest|Description|Findings|Rank|Report|
 |:------|:----------|:-------|:--:|:----:|
 |[First Flight #17: Dussehra (CTF)](https://codehawks.cyfrin.io/c/2024-06-Dussehra)|NFT|[2 H, 1 L](Audits/First-Flight-17-Dussehra.md)|40th|[📄](https://codehawks.cyfrin.io/c/2024-06-Dussehra/results?t=report&page=1)|
-
-
-
-
 
 ## 🔗 Social 
 - [Twitter](https://twitter.com/nour608)
