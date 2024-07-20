@@ -6,7 +6,7 @@ I am a Security Researcher with a passion for Hacking and finding bugs, speciali
 ### About me 💯
 
 - 🔭 I'm currently working as a Smart contract auditor on platforms such as [Code4rena](https://code4rena.com/@nour99), [Sherlock](https://audits.sherlock.xyz/watson/nour99), and [CodeHawks](https://codehawks.cyfrin.io/profile/clsj2nv2y0006l5rg1oswt3ys)...etc.
-- ❤️ Generally, I'm truly passionate about **Computer Science, Hacking, Learning new technology daily, Smart contract audit, Ethereum Smart Contracts, Bitcoin**.
+- ❤️ Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero knowledge proofs, and Learning new technology daily**.
 
 ### 💻 OSes
 
