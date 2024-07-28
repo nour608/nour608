@@ -65,4 +65,4 @@ I am a Security Researcher | Smart Contract Engineer with a passion for breaking
 ## 🔗 Social 
 - [Twitter](https://twitter.com/nour608)
 - [LinkedIn](https://www.linkedin.com/in/nour-elden-nader-0845581b3/)
-- [Nour Elden Blog](https://nour99.hashnode.dev/)
+- [Blog](https://nour99.hashnode.dev/)
