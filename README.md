@@ -1,12 +1,12 @@
 # Hi there, I'm Nour Elden (nour99) 👋
 
 <!-- Add an introductory paragraph about yourself -->
-I am a Security Researcher with a passion for Hacking and finding bugs, specializing in Smart contract auditing.
+I am a Security Researcher | Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
 
-### About me 💯
+### About me
 
-- 🔭 I'm currently working as a Smart contract auditor on platforms such as [Code4rena](https://code4rena.com/@nour99), [Sherlock](https://audits.sherlock.xyz/watson/nour99), and [CodeHawks](https://codehawks.cyfrin.io/profile/clsj2nv2y0006l5rg1oswt3ys)...etc.
-- ❤️ Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero knowledge proofs, and Learning new technology daily**.
+- 🔭 I'm currently working as a Smart contract engineer and Auditing contests on contests platforms.
+- ❤️ Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
 
 ### 💻 OSes
 
@@ -47,7 +47,7 @@ I am a Security Researcher with a passion for Hacking and finding bugs, speciali
 
 ### Advanced in
 - Smart contract Auditing
-  - Solidity, Yul, Huff, Assembly.
+  - Solidity, Yul, Assembly.
   - EVM.
   - Foundry.
   - Fuzz testing.
@@ -58,6 +58,9 @@ I am a Security Researcher with a passion for Hacking and finding bugs, speciali
 |Contest|Description|Findings|Rank|Report|
 |:------|:----------|:-------|:--:|:----:|
 |[First Flight #17: Dussehra (CTF)](https://codehawks.cyfrin.io/c/2024-06-Dussehra)|NFT|[2 H, 1 L](Audits/First-Flight-17-Dussehra.md)|40th|[📄](https://codehawks.cyfrin.io/c/2024-06-Dussehra/results?t=report&page=1)|
+
+## Projects
+- SafeMath Library for Inline Assembly/Yul in Solidity Smart Contracts. [repo](https://github.com/nour608/assembly-safeMath-library), [article](https://nour99.hashnode.dev/safemath-library-for-inline-assemblyyul-in-solidity-smart-contracts)
 
 ## 🔗 Social 
 - [Twitter](https://twitter.com/nour608)
