@@ -58,6 +58,8 @@ I am a Security Researcher | Smart Contract Engineer with a passion for breaking
 |Contest|Description|Findings|Rank|Report|
 |:------|:----------|:-------|:--:|:----:|
 |[First Flight #17: Dussehra (CTF)](https://codehawks.cyfrin.io/c/2024-06-Dussehra)|NFT|[2 H, 1 L](Audits/First-Flight-17-Dussehra.md)|40th|[📄](https://codehawks.cyfrin.io/c/2024-06-Dussehra/results?t=report&page=1)|
+|[Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)|bridging/liquidity|[2 H, 3 L, 1 M]()|-|[📄](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&page=1&t=report)|
+
 
 ## Projects
 - SafeMath Library for Inline Assembly/Yul in Solidity Smart Contracts. [repo](https://github.com/nour608/assembly-safeMath-library), [article](https://nour99.hashnode.dev/safemath-library-for-inline-assemblyyul-in-solidity-smart-contracts)
