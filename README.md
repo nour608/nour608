@@ -60,6 +60,7 @@ I am a Security Researcher | Smart Contract Engineer with a passion for breaking
 |[First Flight #17: Dussehra (CTF)](https://codehawks.cyfrin.io/c/2024-06-Dussehra)|NFT|2 H, 1 L|40th|[📄](https://codehawks.cyfrin.io/c/2024-06-Dussehra/results?t=report&page=1)|
 |[Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)|bridging/liquidity|2 H, 3 L, 1 M|-|[📄](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&page=1&t=report)|
 |[vVv Launchpad - Investments & Token distribution](https://audits.sherlock.xyz/contests/647)|Token distribution|1 H| 1st |[📄](https://audits.sherlock.xyz/contests/647/report)|
+|[One World](https://codehawks.cyfrin.io/c/2024-11-one-world)|DAO|1 L| - |[📄](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=report)|
 
 
 ## Projects
