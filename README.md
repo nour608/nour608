@@ -61,6 +61,7 @@ I am a Security Researcher | Smart Contract Engineer with a passion for breaking
 |[Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle)|bridging/liquidity|2 H, 3 L, 1 M|-|[📄](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&page=1&t=report)|
 |[vVv Launchpad - Investments & Token distribution](https://audits.sherlock.xyz/contests/647)|Token distribution|1 H| 1st |[📄](https://audits.sherlock.xyz/contests/647/report)|
 |[One World](https://codehawks.cyfrin.io/c/2024-11-one-world)|DAO|1 L| - |[📄](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=report)|
+|[hyperlend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b)|lending|1 H| 16 |[📄](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b)|
 
 
 ## Projects
