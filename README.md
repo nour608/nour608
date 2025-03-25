@@ -2,11 +2,7 @@
 
 <!-- Add an introductory paragraph about yourself -->
 I am a Security Researcher | Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
-
-### About me
-
-- 🔭 I'm currently working as a Smart contract engineer and Auditing contests on contests platforms.
-- ❤️ Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
+- Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
 
 ### 💻 OSs
 
