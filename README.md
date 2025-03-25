@@ -1,7 +1,7 @@
 # Hi there, I'm Nour Elden (nour99) 👋
 
 <!-- Add an introductory paragraph about yourself -->
-I am a Security Researcher | Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
+I am a Security Researcher & Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
 - Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
 
 ### 💻 OSs
