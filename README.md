@@ -8,7 +8,7 @@ I am a Security Researcher | Smart Contract Engineer with a passion for breaking
 - 🔭 I'm currently working as a Smart contract engineer and Auditing contests on contests platforms.
 - ❤️ Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
 
-### 💻 OSes
+### 💻 OSs
 
 <p> 
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
