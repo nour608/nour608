@@ -3,16 +3,7 @@
 <!-- Add an introductory paragraph about yourself -->
 I am a Security Researcher & Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
 - Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
-
-### 💻 OSs
-
-<p> 
-    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-</p>
-
+- I am currently doing smart contract auditing and developing a side hustle project, specifically a decentralized application (DApp).
 ### 🎯 Skills
 
 #### ⌨️ Programming languages
@@ -27,19 +18,6 @@ I am a Security Researcher & Smart Contract Engineer with a passion for breaking
 ![Foundry](https://img.shields.io/badge/Foundry-20232a?style=for-the-badge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-4CAF50?style=for-the-badge&logo=hardhat&logoColor=white)
 ![DappTools](https://img.shields.io/badge/DappTools-FE7A16?style=for-the-badge)
-  
-#### 🗃 Package, dependency, and environment management
-
-<p>
-    <a href="https://docs.conda.io" target="_blank"><img alt="Conda"
-        src="https://img.shields.io/badge/conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white"/></a>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-    <a href="https://pnpm.io" target="_blank"><img alt="pnpm"
-        src="https://img.shields.io/badge/pnpm-%234a4a4a?style=for-the-badge&logo=pnpm&logoColor=f69220"/></a>
-    <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
-        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
-</p>
 
 ### Advanced in
 - Smart contract Auditing
