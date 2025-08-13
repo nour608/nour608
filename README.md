@@ -1,26 +1,22 @@
-# Hi there, I'm Nour Elden (nour99) 👋
+# Hi there, I'm Nour Elden 👋
 
-<!-- Add an introductory paragraph about yourself -->
-I am a Security Researcher & Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
-- Generally, I'm truly passionate about **Decentralized applications, Developing and Auditing Smart contracts, Ethereum, Bitcoin, Zero-knowledge proofs, and Learning new technology daily**.
-- I am currently doing smart contract auditing and developing a side hustle project, specifically a decentralized application (DApp).
+Security Researcher & Smart Contract Engineer with a passion for breaking/building software and finding bugs, specializing in Smart Contract Development/Auditing.
+#### Interested in:
+- **Decentralized applications, developing and Auditing Smart contracts.**
+- **Zero-knowledge proofs.**
+- **Business Development and Finance** 
+
 ### 🎯 Skills
 
 #### ⌨️ Programming languages
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Huff](https://img.shields.io/badge/Huff-000000?style=for-the-badge&logoColor=white)
-![Yul](https://img.shields.io/badge/Yul-342e37?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-007acc?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Solidity, Huff, Yul, Assembly, JavaScript**
+
 
 #### 🎛 Frameworks and runtime environments
-![Foundry](https://img.shields.io/badge/Foundry-20232a?style=for-the-badge)
-![Hardhat](https://img.shields.io/badge/Hardhat-4CAF50?style=for-the-badge&logo=hardhat&logoColor=white)
-![DappTools](https://img.shields.io/badge/DappTools-FE7A16?style=for-the-badge)
+- **Foundry**
 
 ### Advanced in
-- Smart contract Auditing
+- Smart contract Auditing/Developing
   - Solidity, Yul, Assembly.
   - EVM.
   - Foundry.
@@ -40,8 +36,9 @@ I am a Security Researcher & Smart Contract Engineer with a passion for breaking
 
 ## Projects
 - SafeMath Library for Inline Assembly/Yul in Solidity Smart Contracts. [repo](https://github.com/nour608/assembly-safeMath-library), [article](https://nour99.hashnode.dev/safemath-library-for-inline-assemblyyul-in-solidity-smart-contracts)
+- **ZawyaX** [ZawyaX-Equity-Tokenization](https://github.com/nour608/ZawyaX-Equity-Tokenization) , [Decentralized Freelance Marketplace](https://github.com/nour608/ZawiyaX)
 
 ## 🔗 Social 
-- [Twitter](https://twitter.com/nour608)
+- [X](https://twitter.com/nour608)
 - [LinkedIn](https://www.linkedin.com/in/nour-elden-nader-0845581b3/)
 - [Blog](https://nour99.hashnode.dev/)
