@@ -1,11 +1,11 @@
 # Nour Elden
 
-Smart contract security researcher and RWA/tokenization engineer. 50+ security reviews across DeFi protocols. Currently building [Zawyafi](https://zawyafi.com) — an inventory tokenization platform for SMEs, live on Sepolia with Chainlink CRE integration.
+Smart contract security researcher and RWA/tokenization engineer. 50+ security reviews across DeFi protocols. Currently building [Rubh]() — an inventory tokenization platform for SMEs, live on Sepolia with Chainlink CRE integration.
 
 ---
 ## Projects
 
-**[Zawyafi](https://zawyafi.com)** · [repo](https://github.com/nour608/zawyafi)  
+**[Rubh]()** · [repo](https://github.com/nour608/Rubh)  
 Tokenizes SME inventory (not equity) so everyday investors can buy stakes backed by real business assets and earn from revenue. 8 EVM contracts on Sepolia, Node.js backend on AWS, Next.js frontend. Chainlink CRE connects Square POS live sales data to on-chain payouts. Targeting GCC/Saudi Arabia launch.
 
 **[SafeMath Library — Inline Assembly/Yul](https://github.com/nour608/assembly-safeMath-library)**  
@@ -30,4 +30,4 @@ Gas-optimized SafeMath in pure Yul/Assembly for Solidity. [Article](https://nour
 
 ## Links
 
-[X](https://twitter.com/nour608) · [LinkedIn](https://www.linkedin.com/in/nour-elden-nader-0845581b3/) · [Blog](https://nour99.hashnode.dev/) · [Zawyafi](https://zawyafi.com)
+[X](https://twitter.com/nour608) · [LinkedIn](https://www.linkedin.com/in/nour-elden-nader-0845581b3/) · [Blog](https://nour99.hashnode.dev/)
